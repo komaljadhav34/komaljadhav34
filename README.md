@@ -21,28 +21,24 @@ AI/ML fresher with hands-on experience building production-grade intelligent sys
 ### 📚 AI Book Summarizer · `LLM + RAG`
 Document Q&A platform powered by LLaMA 3.3-70B (Groq API) with BM25 retrieval, TF-IDF topic extraction, auto-MCQ generation, and 4-mode explanations. Supports PDF, DOCX, TXT & YouTube transcripts.  
 **Stack:** Python · FastAPI · PostgreSQL · Groq / LLaMA · RAG  
-[GitHub](#) | [Live Demo](#)
 
 ---
 
 ### 🧠 NeuroAlign · `Multimodal AI`
 Real-time emotion-adaptive system using CNN-LSTM on keystroke dynamics + DeepFace + Gemini API. Adjusts LLM tone and memory depth dynamically via Valence-Arousal mapping.  
 **Stack:** Python · PyTorch · CNN-LSTM · Gemini API · DeepFace  
-[GitHub](#)
 
 ---
 
 ### 🌿 Leaf Disease Prediction · `CNN from scratch`
 CNN built from scratch using only NumPy — ~85% accuracy across 6 tomato disease classes on PlantVillage dataset. Flask web interface with real-time inference (<1s latency).  
 **Stack:** Python · NumPy · Flask · Computer Vision  
-[GitHub](#) | [Live Demo](#)
 
 ---
 
 ### ✋ HandSense · `Real-time CV`
 Real-time hand gesture recognition — geometric mode (contour/convexity defects) for finger counting + TensorFlow CNN for 1–10 ASL sign language recognition on a custom dataset.  
 **Stack:** Python · TensorFlow · OpenCV · CNN  
-[GitHub](#)
 
 ---
 
